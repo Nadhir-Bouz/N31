@@ -12,14 +12,14 @@ I write simple, clean code and help students or beginners with:
 
 I'm currently building beginner-friendly projects while sharpening my skills in problem-solving, systems programming, and scripting.
 
-#🔧 Tools I use:
+# Tools I use:
 - Code::Blocks
 - VS Code
 - Git & GitHub
 - Python 3 / IDLE / Jupyter Notebook
 - AI (for suggestions and debugging help)
 
-#📫 Contact me:
+# Contact me:
 - GitHub: [github.com/Nadhir-Bouz](https://github.com/Nadhir-Bouz)
 - Upwork: [](https://www.upwork.com/)
 - Email: nadhir.bouzgarro@gmail.com
